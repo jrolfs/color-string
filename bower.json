@@ -1,0 +1,26 @@
+{
+  "name": "color-string",
+  "main": "color-string.js",
+  "version": "0.1.1",
+  "homepage": "https://github.com/harthur/color-string",
+  "description": "Parser and generator for CSS color strings",
+  "keywords": [
+    "color",
+    "colour",
+    "rgb",
+    "css"
+  ],
+  "authors": [
+    "Heather Arthur <fayearthur@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "Jakefile.js"
+  ]
+}
