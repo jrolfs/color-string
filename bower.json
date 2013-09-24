@@ -4,6 +4,9 @@
   "version": "0.1.1",
   "homepage": "https://github.com/harthur/color-string",
   "description": "Parser and generator for CSS color strings",
+  "dependencies": {
+      "color-convert": "https://github.com/jrolfs/color-convert.git#bower"
+  },
   "keywords": [
     "color",
     "colour",
